@@ -1,6 +1,6 @@
 # Digital Archiving & Storytelling for Historically Underrepresented-Communities
 
-Our goal is to support the site-specific preservation needs of historically-underrepresented communities and their socio-cultural identity and narratives through digital archiving and digital storytelling. More than [platforms](https://github.com/idahatiu/idahatiu.github.io) and processes, we take a *holistic approach to community-archiving with a focus on people*.
+Our goal is to support the site-specific preservation needs of historically-underrepresented communities and their socio-cultural identity and narratives through digital archiving and digital storytelling. More than [platforms](https://github.com/idahatiu/idahatiu.github.io) and processes, we take a *holistic approach to community-archiving with a focus on people*. [Visit the FAQ](https://github.com/mdalmau/community-archiving-toolkit/blob/main/faq.md) for more information.
 
 ## Community & Campus Partners
 _This list is slowly growing as we develop relationship with community and campus partners._
