@@ -23,3 +23,8 @@ Contributors will have options. Stories and artifacts could be shared widely via
 ## How long will this work take?
 This is a slow roll! Above all else, we need to build a relationship with community partners. We need to learn about community needs. We need to understand community capacity for engaging in this kind of work before we assist in actual archive- and story-collecting. A community project can take up to a year, from start to finish, during which time collaborators and partners are learning from each other. 
 
+## What are some example projects?
+There are so many great community-driven digital archives. The two we'd like to call out here:
+* [XFR Collective](https://xfrcollective.wordpress.com)
+* [Remembering Freedom: Longtown and Greenville History Harvest](https://longtownhistory.github.io)
+
