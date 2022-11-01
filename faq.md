@@ -27,4 +27,3 @@ This is a slow roll! Above all else, we need to build a relationship with commun
 There are so many great community-driven digital archives. The two we'd like to call out here:
 * [XFR Collective](https://xfrcollective.wordpress.com)
 * [Remembering Freedom: Longtown and Greenville History Harvest](https://longtownhistory.github.io)
-
