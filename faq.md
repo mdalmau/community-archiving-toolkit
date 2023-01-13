@@ -9,7 +9,7 @@ IXeM (ImaginX en Movimiento), is a grassroots digital archives collective based 
 Indiana University Bloomington Institute for Digital Arts & Humanities (IDAH) fosters digitally-inflected creative pursuits, research, and teaching for IU Bloomington faculty and students who represent a broadly inclusive constituency across the arts and humanities, whether they are experimenting for the first time with digital methods or advancing a project for public or scholarly audiences, through thoughtful critique and inclusive approaches.
 
 ## Who are the partners?
-Our focus is currently on communities surrounding IXeM's and IDAH's home base -- present-day, Los Angeles, California and Bloomington, Indiana. However, we are eager to extend partnerships into the Midwest, starting with Indiana, IDAH's home state, and Illinois, IXeM's newly adopted state. If your organization is interested in learning more about this work, contact [idah@indiana.edu] (mailto:idah@indiana.edu). 
+Our focus is currently on communities surrounding IXeM's and IDAH's home base -- present-day, Los Angeles, California and Bloomington, Indiana. However, we are eager to extend partnerships into the Midwest, starting with Indiana, IDAH's home state, and Illinois, IXeM's newly adopted state. If your organization is interested in learning more about this work, contact [idah@indiana.edu](mailto:idah@indiana.edu). 
 
 ##  What are the partners' responsibilities and commitments?
 Partners lead outreach to their community or communities. They determine community needs for digital archiving and storytelling, and they help foster relationship-building between the collaborators and the partner communities.
