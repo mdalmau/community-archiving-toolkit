@@ -1,7 +1,7 @@
 ---
 layout: item
 format: photo
-title: La Vírgen de la Caridad del Cobre (Sculpture)
+title: La Vírgen de la Caridad del Cobre
 author: Michelle Dalmau
 contributor: 	
 group: 
